@@ -2,7 +2,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/logan-ford-627a51243/))
 &nbsp;
 
-👋! I'm Logan Ford, a Junior Full Stack Software Engineer, thriving in the dynamic world of digital innovation. In my current role at Hiyield, I contribute to diverse developer teams of both WordPress and Web applications. My focus is on delivering robust digital products that not only meet but exceed client expectations.
+👋 I'm Logan, a Junior Full Stack Software Engineer, thriving in the dynamic world of digital innovation. In my current role at Hiyield, I contribute to diverse developer teams of both WordPress and Web applications. My focus is on delivering robust digital products that not only meet but exceed client expectations.
 
 ### Whilst off the job, my most used languages are:
 <div style="display:flex; gap: '20px'">
