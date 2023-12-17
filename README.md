@@ -1,10 +1,26 @@
 # Jr Full Stack Software Engineer 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/logan-ford-627a51243/))
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
-## Whilst off the job, my most used languages are:
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Logannford)](https://github.com/anuraghazra/github-readme-stats)
+👋! I'm Logan Ford, a Junior Full Stack Software Engineer, thriving in the dynamic world of digital innovation. In my current role at Hiyield, I contribute to diverse developer teams of both WordPress and Web applications. My focus is on delivering robust digital products that not only meet but exceed client expectations.
+
+### Whilst off the job, my most used languages are:
+<div style="display:flex; gap: '20px'">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logannford&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
+</div>
+
+In addition to my day-to-day proficiency in various languages and frameworks, I enjoy developing with:
+
+- 3D Graphics Development (Three.js)
+- Serverless Architectures (Firebase + Supabase)
+
+## Current Explorations
+Outside my daily endeavors, I'm delving into exciting territories such as:
+
+- C++: Exploring lower-level languages
+- 2D Game Engine: Creating my own using SDL and OpenGL
+- Cloud computing: Increasing knowledge in AWS
+- 🤖: LLM's and machine learning
 
 
 <!--
