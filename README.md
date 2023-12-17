@@ -1,4 +1,7 @@
 # Jr Full Stack Software Engineer 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/logan-ford-627a51243/))
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 ## Whilst off the job, my most used languages are:
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Logannford)](https://github.com/anuraghazra/github-readme-stats)
