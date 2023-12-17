@@ -1,4 +1,4 @@
-### My most used ost used languages:
+### My most used languages:
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Logannford)](https://github.com/anuraghazra/github-readme-stats)
 
 
