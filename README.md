@@ -13,7 +13,7 @@ In addition to my day-to-day proficiency in various languages and frameworks, I 
 - Low levels language (c++)
 
 ## Current Explorations
-Outside my daily endeavors, I'm delving into exciting territories such as:
+Outside my daily endeavors, I'm delving into technologies such as:
 
 - C++: Exploring lower-level languages
 - 2D Game Engine: Creating my own using SDL and OpenGL
