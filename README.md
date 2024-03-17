@@ -1,16 +1,16 @@
-I am a full-stack software engineer at Hiyield who uses a wide range of modern technology to create both marketing and web applications:
+I am a full-stack software engineer at Hiyield who uses a wide range of modern technologies to create both marketing and web applications:
 - Nuxt, Vue, Typescript, Tailwind, Firebase
 - PHP, WordPress, Stripe, Tailwind, Javascript, Vue Petite
   
-### I'm currently working on a drag-and-drop no code CMS platform using:
-- NextJs
-- React
+### Other Languages & Frameworks/Libraries
+I also enjoying building web applications in my spare time using:
+- NextJs + app router
+- React + Redux + Tanstack + shadcn
 - Typescript
-- Golang
 - Tailwind
 - Stripe
-- Supabase
-- Prisma
+- Golang
+- Supabase + Prisma
 
 
 ## 🌐 Socials:
