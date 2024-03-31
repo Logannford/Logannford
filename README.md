@@ -3,9 +3,9 @@ I am a full-stack software engineer at Hiyield who uses a wide range of modern t
 - PHP, WordPress, Stripe, Tailwind, Javascript, Vue Petite
   
 ### Other Languages & Frameworks/Libraries
-I also enjoying building web applications in my spare time using:
-- NextJs + app router
-- React + Redux + Tanstack + shadcn
+I am currently building a web application in my own time using:
+- NextJs & React
+- Redux + Tanstack + Shadcn + Aceternity ui 
 - Typescript
 - Tailwind
 - Stripe
