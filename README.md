@@ -2,15 +2,7 @@ I am a full-stack software engineer at Hiyield who uses a wide range of modern t
 - Nuxt, Vue, Typescript, Tailwind, Firebase
 - PHP, WordPress, Stripe, Tailwind, Javascript, Vue Petite
   
-### Other Languages & Frameworks/Libraries
-I am currently building a web application in my own time using:
-- NextJs & React
-- Redux + Tanstack + Shadcn + Aceternity ui 
-- Typescript
-- Tailwind
-- Stripe
-- Golang
-- Supabase + Prisma
+I'm currently building [draggle.io](https://www.draggle.io/) & [app.draggle.io](https://app.draggle.io/) - An all-in-one drag-and-drop platform for marketing and e-commerce stores.
 
 
 ## 🌐 Socials:
