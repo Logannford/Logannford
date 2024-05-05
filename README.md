@@ -1,4 +1,4 @@
-I am a full-stack software engineer at Hiyield who uses a wide range of modern technologies to create both marketing and web applications:
+Full-stack software engineer who uses a wide range of modern technologies to create both marketing and web applications:
 - Nuxt, Vue, Typescript, Tailwind, Firebase
 - PHP, WordPress, Stripe, Tailwind, Javascript, Vue Petite
   
