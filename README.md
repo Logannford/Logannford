@@ -1,9 +1,6 @@
 Full-stack software engineer who uses a wide range of modern technologies to create both marketing and web applications:
 - Nuxt, Vue, Typescript, Tailwind, Firebase
 - PHP, WordPress, Stripe, Tailwind, Javascript, Vue Petite
-  
-I'm currently building [draggle.io](https://www.draggle.io/) & [app.draggle.io](https://app.draggle.io/) - An all-in-one drag-and-drop platform for marketing and e-commerce stores.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/logan-ford-627a51243) 
