@@ -1,5 +1,5 @@
 Full-stack software engineer who uses a wide range of modern technologies to create both marketing and web applications:
-- Nuxt, Vue, Typescript, Tailwind, Firebase
+- Next (app router) & React + redux, Nuxt & Vue 2/3, Typescript, Tailwind, Firebase
 - PHP, WordPress, Stripe, Tailwind, Javascript, Vue Petite
 
 ## 🌐 Socials:
