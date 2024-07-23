@@ -1,11 +1,3 @@
-Full-stack software engineer who uses a wide range of modern technologies to create both marketing and web applications:
-- Next (app router) & React + redux, Nuxt & Vue 2/3 + pinia, Typescript, Tailwind, Firebase, Supabase, Stripe
-- PHP, WordPress, Stripe, Tailwind, Javascript, Vue Petite
-
-Currently learning GoLang 🤓
-
-# 📊 GitHub Stats:
-
 <table>
   <tr>
     <td>
